@@ -1,7 +1,7 @@
 /**
  * @file main.cpp
  * @brief Demonstrates Doxygen comments in a small C++ program.
- * @author Your Name
+ * @author kushal
  */
 
 #include <iostream>
