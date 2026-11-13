@@ -1,9 +1,9 @@
 # Technical Report Title
 
-**Student:** Your full name  
-**Roll number:** Your roll number  
+**Student:** kushal  
+**Roll number:** 2025ucp1285  
 **Course:** Technical Writing  
-**Instructor:** Instructor name  
+ 
 **Date:** YYYY-MM-DD
 
 ---
