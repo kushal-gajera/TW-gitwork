@@ -104,37 +104,7 @@ You can study the topics independently or follow the numbered order. The technic
 4. Compare the result with the output preview.
 5. Change something in the example and try it again.
 
-### Build the Examples
 
-LaTeX examples can be compiled using a TeX distribution such as TeX Live or MiKTeX. For example:
-
-```bash
-cd 01-LaTeX/01-first-document
-pdflatex main.tex
-```
-
-For the bibliography and index examples, follow the extra build commands in their own READMEs.
-
-To run the C++ example:
-
-```bash
-cd 03-Doxygen/example
-g++ -std=c++17 -Wall -Wextra -pedantic main.cpp -o example
-./example
-```
-
-To generate the Doxygen HTML documentation, install Doxygen and run:
-
-```bash
-cd 03-Doxygen/example
-doxygen Doxyfile
-```
-
-## About the Output Previews
-
-The LaTeX and Beamer preview images are rendered from the source files using a LaTeX compiler. The C++ preview is created from the program's actual terminal output.
-
-**Note:** These are genuine locally compiled output previews. They are not screenshots of the Overleaf website. You can upload the same `.tex` files to your own Overleaf project if you need screenshots showing the Overleaf interface specifically.
 
 ## References
 
